@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Desvaratar Assets/Scenes/MainMenu.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Desvaratar Assets/Scenes/LevelFire.unity
+    guid: 861561a8ad5c6194484d5f280546d532
+  - enabled: 1
+    path: Assets/Desvaratar Assets/Scenes/LevelWater.unity
+    guid: ba8de9f8c25d67749ac66a1977adc3f7
   m_configObjects: {}
